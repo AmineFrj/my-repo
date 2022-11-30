@@ -1,2 +1,2 @@
 My readme
-Use python 3.9+
+Use python 3.9.1+
